@@ -1,0 +1,14 @@
+{
+  "name": "Bulbe Tech — Gestion Réparation",
+  "short_name": "Bulbe Tech",
+  "description": "Gestion hors connexion pour boutique de réparation téléphone et ordinateur.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#0b1220",
+  "lang": "fr",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
